@@ -169,12 +169,10 @@ flutter test --coverage
 
 ---
 
-## 📄 Licencia
+## 👥 Autores y Créditos
 
-Este proyecto fue desarrollado como parte del programa académico de 4to semestre.
+Este proyecto es propiedad intelectual de **Franco Avaro** e **Ignacio Urjel**, desarrollado como proyecto integrador para la carrera de Ingeniería en Sistemas Informáticos (5to Semestre).
 
 ---
+© 2026 Franco Avaro & Ignacio Urjel. Todos los derechos reservados.
 
-## 👥 Equipo
-
-Desarrollado con ❤️ para la comunidad universitaria.
