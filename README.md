@@ -1,6 +1,6 @@
 # 🚌 BusValle
 
-**Sistema integral de gestión de transporte universitario** desarrollado con **Clean Architecture** en Flutter y un **Monolito Modular** en Spring Boot, con tracking GPS en tiempo real.
+**Sistema integral de gestión de transporte universitario** desarrollado con **Clean Architecture** en Flutter y un **Backend de Alto Rendimiento** en Go, con tracking GPS en tiempo real.
 
 ---
 
@@ -15,7 +15,7 @@ BusValle es una solución completa para la gestión del transporte universitario
 | Capa | Tecnología | Descripción |
 |------|------------|-------------|
 | **Frontend** | Flutter | Aplicación móvil multiplataforma con Clean Architecture |
-| **Backend** | Spring Boot | API REST con arquitectura de Monolito Modular |
+| **Backend** | Go (Golang) | API REST de alto rendimiento y concurrencia |
 | **Base de Datos** | PostgreSQL + PostGIS | Base de datos relacional con soporte geoespacial |
 | **Real-time** | WebSockets + Redis | Comunicación bidireccional para tracking en vivo |
 | **Pagos** | Pasarela 3D Secure | Procesamiento seguro de transacciones |
