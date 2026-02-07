@@ -32,7 +32,6 @@ lib/
 │   ├── constants/           # Constantes globales (API, sockets)
 │   ├── di/                  # Inyección de dependencias (GetIt)
 │   ├── error/               # Manejo de excepciones y failures
-│   ├── location/            # Utilidades de geolocalización
 │   ├── network/             # Cliente HTTP y WebSocket
 │   ├── router/              # Navegación centralizada
 │   ├── theme/               # Tema y colores de la app
